@@ -1,81 +1,55 @@
-# OctoAcme Personas
+## Scrum Master
 
-This document defines typical roles and responsibilities used in OctoAcme project docs and exercises.
+**Role Summary:** Facilitates agile ceremonies, supports team alignment, and removes blockers.
 
----
-
-## Developers
-
-### Role Summary
-Developers design, build, test, and deliver software components. They collaborate with product and project leads to implement features that meet acceptance criteria and quality standards.
-
-### Responsibilities
-- Implement features and fixes to meet acceptance criteria
-- Write and maintain tests and documentation
-- Participate in design and code reviews
-- Assist in estimating and planning work
-- Help identify technical risks and propose mitigations
-
-### Goals
-- Deliver reliable, maintainable code
-- Reduce cycle time from idea to production
-- Maintain high test coverage and observability
-
-### Typical Communication
-- Daily standups and sprint planning
-- PR descriptions and code review comments
-- Technical design docs when needed
+**Responsibilities:**
+- Organize sprint planning, standups, and retrospectives
+- Coach the team on agile best practices
+- Proactively identify and help remove impediments
+- Collaborate with Project Managers and Developers
 
 ---
 
-## Product Managers
+## UX Designer
 
-### Role Summary
-Product Managers define what should be built to deliver customer and business value. They own the product vision, prioritize the backlog, and measure outcomes.
+**Role Summary:** Champions user experience and usability in deliverables.
 
-### Responsibilities
-- Define problem statements and success metrics
-- Prioritize the roadmap and backlog
-- Collaborate with stakeholders and engineering on trade-offs
-- Validate solutions through user research and metrics
-
-### Goals
-- Maximize customer value and impact
-- Make clear, data-driven prioritization decisions
-- Ensure product-market fit and usability
-
-### Typical Communication
-- Weekly alignment with PM and engineering leads
-- Roadmap updates and stakeholder briefings
-- Acceptance criteria and feature specs
+**Responsibilities:**
+- Conduct user research and usability testing
+- Collaborate with Product Managers and Developers on requirements and prototyping
+- Advocate for accessibility and design standards
 
 ---
 
-## Project Managers
+## Technical Lead
 
-### Role Summary
-Project Managers coordinate delivery activities, manage schedules, risks, and communications. They enable the team to deliver on commitments efficiently.
+**Role Summary:** Provides technical vision and guidance.
 
-### Responsibilities
-- Create and maintain project plans and timelines
-- Manage risks, dependencies, and resource constraints
-- Facilitate meetings (kickoff, planning, retrospectives)
-- Ensure consistent project documentation and status reporting
-- Coordinate cross-team and stakeholder communication
-
-### Goals
-- Deliver projects on time and within scope
-- Minimize unplanned work and escalations
-- Maintain transparency and alignment across stakeholders
-
-### Typical Communication
-- Weekly status updates and stakeholder reports
-- Risk registers and decision logs
-- Coordination via project boards and meeting facilitation
+**Responsibilities:**
+- Guide architectural decisions, code quality, and reviews
+- Mentor developers and support onboarding
+- Interface with Project Management on technical risks/dependencies
 
 ---
 
-## How these personas are used in the exercise
-- Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
-- Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
+## Business Analyst
 
+**Role Summary:** Translates business needs into actionable requirements.
+
+**Responsibilities:**
+- Lead requirements gathering and documentation
+- Refine user stories and acceptance criteria
+- Liaise between stakeholders, Product Managers, and Developers
+
+---
+
+## Support / Customer Success Representative
+
+**Role Summary:** Brings the voice of the customer into feedback loops.
+
+**Responsibilities:**
+- Surface user-reported issues and feature needs
+- Participate in incident response/triage discussions
+- Validate improvements from a user perspective
+
+---
